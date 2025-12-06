@@ -1,0 +1,1 @@
+print("dividion:",10/2)
